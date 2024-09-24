@@ -2,5 +2,5 @@
 
 ## Integrantes:
 
-### Paulo Cuaresma
-### Eros Carhuancho
+#### Paulo Cuaresma
+#### Eros Carhuancho
