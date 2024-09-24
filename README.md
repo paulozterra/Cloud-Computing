@@ -1,5 +1,5 @@
 # Cloud-Computing
 
-##Integrantes:
+## Integrantes:
 Paulo Cuaresma
 Eros Carhuancho
