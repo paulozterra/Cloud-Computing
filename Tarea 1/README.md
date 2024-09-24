@@ -15,4 +15,4 @@ Comandos para realizar teleportacion en VBox usando Localhost:
 
     ```bash
     VBoxManage controlvm ubu teleport --host localhost --port 6000   
-    ``` 
+    ```
